@@ -2,6 +2,19 @@
 
 A simple and responsive React application that allows users to search for any GitHub profile and view public information such as avatar, bio, repositories, followers, following count, location, and company.
 
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./src/assets/screenshots/Screenshot%202026-06-04%20111655.png)
+
+### Profile Result
+![Profile Result](./src/assets/screenshots/Screenshot%202026-06-04%20111744.png)
+
+### Error State
+![Error State](./src/assets/Screenshot%202026-06-04%20112308.png)
+
+
 ## 🚀 Features
 
 * Search GitHub users by username
@@ -129,4 +142,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ using React and Tailwind CSS.
+👨‍💻 Author
+Adya Porwal
